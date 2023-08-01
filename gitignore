@@ -1,0 +1,11 @@
+# Ignore CSV files
+*.csv
+
+# Ignore GeoJSON files
+*.geojson
+
+# Ignore JSON files
+*.json
+
+# Ignore XLSX files
+*.xlsx
